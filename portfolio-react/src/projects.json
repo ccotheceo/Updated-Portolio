@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Employee Directory React",
+      "github": "https://github.com/ccotheceo/Employee-Directory-React",
+      "deployed": "",
+      "image": "EmployeeDirectoryReact.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Reverse Engineering Code",
+      "github": "https://github.com/ccotheceo/Reverse-Engineering-Code",
+      "deployed": "",
+      "image": "ReverseEngineeringCode.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Code Quiz",
+      "github": "https://github.com/ccotheceo/Code-Quiz",
+      "deployed": "",
+      "image": "CodeQuiz.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Profile Generator",
+      "github": "https://github.com/ccotheceo/profile-generator",
+      "deployed": "",
+      "image": "ProfileGenerator.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Team Generator",
+      "github": "https://github.com/ccotheceo/team-generator",
+      "deployed": "",
+      "image": "TeamGenerator.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Workout Tracker",
+      "github": "https://github.com/ccotheceo/Workout-Tracker",
+      "deployed": "",
+      "image": "FitnessTracker.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Date Night",
+      "github": "https://github.com/livingkurt/Date-Night-Recipes",
+      "deployed": "",
+      "image": "DateNight.jpeg"
+    }
+  ]
+  
